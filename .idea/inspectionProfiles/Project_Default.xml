@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pbr" />
+          <option value="virtualenv" />
+          <option value="python-dateutil" />
+          <option value="github3.py" />
+          <option value="PyYAML" />
+          <option value="paramiko" />
+          <option value="GitPython" />
+          <option value="python-daemon" />
+          <option value="extras" />
+          <option value="statsd" />
+          <option value="prometheus-client" />
+          <option value="voluptuous" />
+          <option value="apscheduler" />
+          <option value="tzlocal" />
+          <option value="PrettyTable" />
+          <option value="babel" />
+          <option value="netaddr" />
+          <option value="kazoo" />
+          <option value="sqlalchemy" />
+          <option value="alembic" />
+          <option value="cryptography" />
+          <option value="cachecontrol" />
+          <option value="cachetools" />
+          <option value="pyjwt" />
+          <option value="psutil" />
+          <option value="google-re2" />
+          <option value="paho-mqtt" />
+          <option value="cherrypy" />
+          <option value="ws4py" />
+          <option value="routes" />
+          <option value="jsonpath-rw" />
+          <option value="urllib3" />
+          <option value="cheroot" />
+          <option value="elasticsearch" />
+          <option value="PyMySQL" />
+          <option value="psycopg2-binary" />
+          <option value="opentelemetry-sdk" />
+          <option value="opentelemetry-exporter-otlp-proto-grpc" />
+          <option value="opentelemetry-exporter-otlp-proto-http" />
+          <option value="mmh3" />
+          <option value="confluent-kafka" />
+          <option value="google-api-core" />
+          <option value="google-cloud-pubsub" />
+          <option value="openstacksdk" />
+          <option value="rackspaceauth" />
+          <option value="openshift" />
+          <option value="boto3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
